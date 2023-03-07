@@ -41,7 +41,7 @@ ui <- fluidPage(
                  p("Temperature ",
                    em("temp"),
                    "is measured in Celsius. The temperature is measured in 27 different unique regions from the year 1978-2023."),
-                  p("Below is a small random sample of the data"),
+                 p("Below is a small random sample of the data"),
                  br(),
                  tableOutput("head"), value=1),
         tabPanel("Plot", plotOutput("yeartempPlot"),textOutput(outputId = "subset_avg"), value=2),

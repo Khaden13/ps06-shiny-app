@@ -1,0 +1,11 @@
+name: ps06-shiny-app
+title: ps06-shiny-app
+username:
+account: khaden13
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8497995
+bundleId: 6924543
+url: https://khaden13.shinyapps.io/ps06-shiny-app/
+when: 1678167821.25518
+lastSyncTime: 1678167821.2552

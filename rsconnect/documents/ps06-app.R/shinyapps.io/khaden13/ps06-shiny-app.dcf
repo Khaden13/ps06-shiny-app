@@ -1,0 +1,14 @@
+name: ps06-shiny-app
+title: ps06-shiny-app
+username:
+account: khaden13
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8497995
+bundleId: 6924523
+url: https://khaden13.shinyapps.io/ps06-shiny-app/
+when: 1678167291.08456
+lastSyncTime: 1678167291.08457
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|ps06-app/app.R|README.md|UAH-lower-troposphere-long.csv.bz2
