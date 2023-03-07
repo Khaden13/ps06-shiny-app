@@ -9,3 +9,5 @@ To better summarize the data, I created three separate panels to show different 
 - **Summary**: This panel shows a overall summary of the data, with a short description and a random sample of the data shown.
 - **Plot**: This panel shows various graphs on the overall temperature distribution depending on the region. There are widgets to change what region is being shown, what color the graph is showing, and whether or not you want to see a trend line.
 - **Table**: This panel shows you various tables of different time periods and the maximum and minimum temperature for each. There is a widget that allows you to switch between what kind of time period you are looking at.
+
+Here is the [link](https://khaden13.shinyapps.io/ps06-shiny-app/) to the shiny app
